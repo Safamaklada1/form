@@ -1,0 +1,18 @@
+body fieldset {
+  display: inline-block;
+}
+
+legend {
+  text-align: center;
+  font-weight: bold;
+}
+
+#email{
+	float:right;
+}
+#password{
+	float:right;
+}
+#password1{
+	float:right;
+}
